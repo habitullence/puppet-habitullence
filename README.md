@@ -3,7 +3,7 @@ Standing on the shoulders of giants
 
 ## Vision
 
-Doing your work in the shell puts you closer to the computer giving you a better learing experience and ultimately leveraging it's full potential.
+Doing your work in the shell puts you closer to the computer giving you a better learning experience and ultimately leveraging its full potential.
 
 Building your own IDE in the shell takes quite a bit of investment, the return is you end up with your own IDE tailored to your needs.
 
